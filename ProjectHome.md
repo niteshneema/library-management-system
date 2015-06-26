@@ -1,0 +1,1 @@
+The system, herein Library Management System, aims to design a comprehensive system for Library Management. This software on java can handle every day to day library problems and its GUI let the library management personal work very easily. With the help of multi-window opening person can do multiple task in same time.
